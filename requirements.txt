@@ -1,6 +1,6 @@
 aiofiles
 flask
-aiohttp==3.9.3
+aiohttp==3.10.2
 apscheduler
 asyncio
 bard
